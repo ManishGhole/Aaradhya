@@ -1,0 +1,7 @@
+AaradhyaIntent {Person}
+AaradhyaIntent tell me {Person}
+AaradhyaIntent can you tell me {Person}
+NameIntent what is my name
+NameIntent what is your name
+NameIntent what's my name
+NameIntent what's your name

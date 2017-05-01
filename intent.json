@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "AaradhyaIntent",
+      "slots": [
+        {
+          "name": "Person",
+          "type": "PersonNames"
+        }
+      ]
+    },
+    {
+      "intent": "NameIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+ }
